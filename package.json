@@ -1,3 +1,10 @@
 {
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "gif-frames": "^1.0.1",
+    "jimp": "^0.22.8",
+    "langchain": "^0.0.108",
+    "slugify": "^1.6.6"
+  }
 }
